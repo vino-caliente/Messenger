@@ -1,0 +1,4 @@
+aiomysql==0.3.2
+fastapi==0.136.1
+PyJWT==2.13.0
+uvicorn==0.46.0

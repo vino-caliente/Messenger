@@ -1,0 +1,12 @@
+async_tkinter_loop==0.8.1
+CTkMessagebox==2.7
+customtkinter==5.2.2
+httpx==0.28.1
+moviepy==1.0.3
+numpy==2.4.4
+opencv_python==4.13.0.92
+python_vlc==3.0.21203
+scipy==1.17.1
+sounddevice==0.5.5
+soundfile==0.13.1
+websockets==16.0
